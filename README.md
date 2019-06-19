@@ -2,7 +2,7 @@
 
 ## Install Anaconda Navigator
 
-  <&nbsp> https://www.anaconda.com/distribution/
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.anaconda.com/distribution/
    
    <img src="images/button1.PNG">
   
