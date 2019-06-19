@@ -1,6 +1,6 @@
-# Artificial-Intelligence
+## Artificial-Intelligence
 
-- Install Anaconda Navigator
+# Install Anaconda Navigator
 
    https://www.anaconda.com/distribution/
    
