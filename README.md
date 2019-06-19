@@ -1,2 +1,7 @@
 # Artificial-Intelligence
-Artificial Intelligence Program
+
+- Install Anaconda Navigator
+
+   https://www.anaconda.com/distribution/
+   
+   
