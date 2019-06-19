@@ -8,6 +8,6 @@
   
 ## Check the version of tensorflow and python
   
-  <&nbsp> https://www.tensorflow.org/install/pip 
+ &nbsp;&nbsp; https://www.tensorflow.org/install/pip 
   
   <&nbsp> Python 3.6,  CPU-only	tensorflow-1.13.1-cp36-cp36m-win_amd64.whl
