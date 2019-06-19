@@ -4,6 +4,6 @@
 
    https://www.anaconda.com/distribution/
    
-   <img src="anconda3 downbutton.png">
+   <img src="./anconda3 downbutton.png">
    
    
