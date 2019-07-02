@@ -15,3 +15,5 @@
 ## Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras p.1
 
 ## Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2
+
+## Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3
