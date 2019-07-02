@@ -10,7 +10,7 @@
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.tensorflow.org/install/pip 
   
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My Python 3.6, 	tensorflow-1.13.1
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My Python 3.6, 	tensorflow-1.13.1
 
 ## Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras p.1
 
