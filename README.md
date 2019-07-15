@@ -14,7 +14,7 @@
 
 ## Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras p.1
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ### https://dzone.com/articles/image-data-analysis-using-numpy-amp-opencv
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://dzone.com/articles/image-data-analysis-using-numpy-amp-opencv
 
 ## Loading in your own data - Deep Learning basics with Python, TensorFlow and Keras p.2
 
